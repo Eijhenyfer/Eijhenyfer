@@ -1,7 +1,7 @@
-## Olá 🕷️🕸️
 
-
-# Sobre mim:
+![arq](assets/arq.jpeg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FFFFFF&width=435&lines=Dev+Front-end)](https://git.io/typing-svg)
+<br>
 🎓 ADS Student <br>💻 Front-End / Full-Stack Developer in training<br>🚀 Estudando HTML, CSS, JavaScript e criando projetos web.
 
 
